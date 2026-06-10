@@ -4,8 +4,8 @@ A full-stack World Cup 2026 prediction and tactical analysis platform built with
 
 The project allows users to select a World Cup group, choose two teams from that group, and generate a model-based match prediction including predicted score, win/draw/loss probabilities, confidence level, and tactical analysis.
 
-Live frontend: https://world-cup-analysis-tau.vercel.app/
-Live backend: https://salo-worldcup-analysis-backend.onrender.com
+Live website demo: https://world-cup-analysis-tau.vercel.app/
+
 
 ---
 
