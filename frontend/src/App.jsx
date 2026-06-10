@@ -6,7 +6,7 @@ import {
   predictMatch,
   getMatchAnalysis,
   getGroups
-} from "./api/worldCupApi";
+} from "./api/worldcupApi";
 const getFlagUrl = (code) => `https://flagcdn.com/w80/${code}.png`;
 
 const fallbackTeams = [
